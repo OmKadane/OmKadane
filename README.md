@@ -33,6 +33,6 @@
 
 ![DevRock Coding GIF](https://media1.tenor.com/m/cSW4KCg4WDgAAAAd/bye-byebye.gif)
 
-print("Thanks for Visiting!!!"
+print("Thanks for visiting!!!") 
 
-print("Visit Again!!!")
+print("Visit again!!!")
