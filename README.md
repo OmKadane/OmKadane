@@ -1,8 +1,8 @@
-⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗
+⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗
 
 ◣◥◣◥◤◢◤◢◣◥ 𝐖 𝐄 𝐋 𝐂 𝐎 𝐌 𝐄 ◣◥◤◢◤◢◣◥◣◥
 
-⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗
+⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗⁀↘‿↗
 
 ![Namaskar](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyN3lzbDZzZmFkb3IybzNlbjRwbHBybHFvbHI5YXBxcnRpMHd5bWZuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpVUsAXLebHb8c/giphy.gif) 
 
