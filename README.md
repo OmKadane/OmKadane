@@ -1,4 +1,5 @@
-◣◥◤◢◤◢◣◥◤◢  w e l c o m e  ◤◢◣◥◤◢◤◢◣◥ [Namaskar](https://giphy.com/gifs/3o6ZtpVUsAXLebHb8c) 
+◣◥◤◢◤◢◣◥◤◢  w e l c o m e  ◤◢◣◥◤◢◤◢◣◥   
+![Namaskar](https://giphy.com/gifs/3o6ZtpVUsAXLebHb8c) 
 
 # 🥷 About Me:
 ![GitHub Cat Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d6M3R6aHR2MGo4OTBnejNjeDk2czR6dmx5cXk1N2F1enVkYnA4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8t4ZdfIux2zDJCcHeu/giphy.gif)
