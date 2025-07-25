@@ -1,0 +1,33 @@
+# .github/workflows/test.yml
+
+# 1. Workflow name
+name: Run Node.js Tests
+
+# 2. Trigger: runs on push events for the main branch
+on:
+  push:
+    branches: [ main ]
+
+# 3. Jobs: a sequence of tasks to run
+jobs:
+  build:
+    # 4. Runner: specifies the OS to run on
+    runs-on: ubuntu-latest
+
+    steps:
+    # 5. Checkout: checks out your repository code
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # 6. Setup Node.js: sets up the specified Node.js version
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    # 7. Install dependencies and run tests
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run tests
+      run: npm test
