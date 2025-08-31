@@ -12,7 +12,7 @@
 
 ❶ Namaskar, I'm Om Kadane 👋<br> ❷ A Python Programmer and an Aspiring Full-Stack Python Developer with a strong programming foundation and a passion for software development 🪄<br> ❸ Built some real-world cool projects and eager to build more real-world projects and grow expertise in Full-Stack Development using Python 🐍
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkadanedev)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30648392/om-kadane)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KadaneOm)
