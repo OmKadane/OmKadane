@@ -1,6 +1,12 @@
+<div align="center">
+  
 ━━━━━━━━━━<[ ✧ 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃 ✧ ]>━━━━━━━━━
-#            𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻   
+  
+# 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻   
+  
 ━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━
+
+</div>
 
 ![Namaskar](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyN3lzbDZzZmFkb3IybzNlbjRwbHBybHFvbHI5YXBxcnRpMHd5bWZuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpVUsAXLebHb8c/giphy.gif) 
 
