@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Namaskar](https://pin.it/72Lt3RiqQ)
+![Namaskar](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnE3eXE1Z3RmaDlyNDFiYnFhYnBqZ255aXBpdW9obDNmeDltYzhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif)
 
 </div> 
 
