@@ -10,12 +10,25 @@
 
 <div align="center">
 
-![Namaskar](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnE3eXE1Z3RmaDlyNDFiYnFhYnBqZ255aXBpdW9obDNmeDltYzhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif) <img src="https://spotify-badge.vercel.app/api/now-playing.svg" width="540" height="52">
-</div> 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane)
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnE3eXE1Z3RmaDlyNDFiYnFhYnBqZ255aXBpdW9obDNmeDltYzhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" height="150" alt="Namaskar" />
+
+  <br />
+  <br />
+
+  <img src="https://spotify-badge.vercel.app/api/now-playing.svg" width="540" height="52" alt="Spotify Now Playing" />
+
+  <br />
+  <br />
+
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic" alt="Visitors" />
+  </a>
+</div>
+
 ---
 # 🥷 About Me:
-![GitHub Cat Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d6M3R6aHR2MGo4OTBnejNjeDk2czR6dmx5cXk1N2F1enVkYnA4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8t4ZdfIux2zDJCcHeu/giphy.gif)
+![Gibhli](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d6M3R6aHR2MGo4OTBnejNjeDk2czR6dmx5cXk1N2F1enVkYnA4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8t4ZdfIux2zDJCcHeu/giphy.gif)
 
 
 ❶ Namaskar, I'm Om Kadane 👋<br> ❷ A Python Programmer and an Aspiring Full-Stack Python Developer with a strong programming foundation and a passion for software development 🪄<br> ❸ Built some real-world cool projects and eager to build more real-world projects and grow expertise in Full-Stack Development using Python 🐍
