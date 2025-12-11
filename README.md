@@ -10,10 +10,9 @@
 
 <div align="center">
 
-![Namaskar](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnE3eXE1Z3RmaDlyNDFiYnFhYnBqZ255aXBpdW9obDNmeDltYzhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif)
-
+![Namaskar](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnE3eXE1Z3RmaDlyNDFiYnFhYnBqZ255aXBpdW9obDNmeDltYzhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif) <img src="https://spotify-badge.vercel.app/api/now-playing.svg" width="540" height="52">
 </div> 
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane)
 ---
 # 🥷 About Me:
 ![GitHub Cat Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d6M3R6aHR2MGo4OTBnejNjeDk2czR6dmx5cXk1N2F1enVkYnA4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8t4ZdfIux2zDJCcHeu/giphy.gif)
