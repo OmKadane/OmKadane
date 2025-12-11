@@ -15,7 +15,7 @@
 
 </div> 
 
-<div>
+<div align="center">
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane)
 
