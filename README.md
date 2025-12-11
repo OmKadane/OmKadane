@@ -12,9 +12,14 @@
 <div align="center">
 
 ![Namaskar](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnE3eXE1Z3RmaDlyNDFiYnFhYnBqZ255aXBpdW9obDNmeDltYzhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane)
 
 </div> 
+
+<div>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane)
+
+</div>
 
 ---
 # 🥷 About Me:
