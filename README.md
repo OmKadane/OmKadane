@@ -10,21 +10,7 @@
 
 <div align="center">
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnE3eXE1Z3RmaDlyNDFiYnFhYnBqZ255aXBpdW9obDNmeDltYzhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" height="150" alt="Namaskar" />
-
-  <br />
-  <br />
-
-  <img src="https://spotify-badge.vercel.app/api/now-playing.svg" width="540" height="52" alt="Spotify Now Playing" />
-
-  <br />
-  <br />
-
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic" alt="Visitors" />
-  </a>
-</div>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmKadane&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmKadane)
 
 ---
 # 🥷 About Me:
