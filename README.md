@@ -62,6 +62,5 @@
 [![](https://visitcount.itsvg.in/api?id=OmKadane&icon=2&color=13)](https://visitcount.itsvg.in)
 ![DevRock Coding GIF](https://media1.tenor.com/m/cSW4KCg4WDgAAAAd/bye-byebye.gif)
 
-print("Thanks for visiting!!!") 
-
-print("Visit again!!!")
+## print("Thanks for visiting!!!") 
+## print("Visit again!!!")
